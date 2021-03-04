@@ -3,7 +3,7 @@ pipeline {
       stages {
             stage('Init') {
                   steps {
-                        echo 'Hi, this is punith from the solar system'
+                        echo 'Hi, this is punith from the seperate universe'
                         echo 'We are Starting the Testing'
                   }
             }
